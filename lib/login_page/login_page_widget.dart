@@ -274,7 +274,7 @@ class _LoginPageWidgetState extends State<LoginPageWidget> {
                                       options: FFButtonOptions(
                                         width: 275,
                                         height: 25,
-                                        color: Color(0x00EE8B60),
+                                        color: Color(0x00FFFFFF),
                                         textStyle:
                                             FlutterFlowTheme.subtitle2.override(
                                           fontFamily: 'Poppins',
