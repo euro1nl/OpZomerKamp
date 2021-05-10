@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "988244925754",
+    "firebase_url": "https://mijnkindopzomerkamep-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mijnkindopzomerkamep",
+    "storage_bucket": "mijnkindopzomerkamep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988244925754:android:3e7f9a127b775df2f78403",
+        "android_client_info": {
+          "package_name": "com.flutterflow.opzomerkamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988244925754-imfe9356sk1vvi2dht6tt5b8kkc6m4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80pW7xvXjCMh0wh4Ii86DXj80YxS6mNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988244925754-imfe9356sk1vvi2dht6tt5b8kkc6m4ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988244925754-8vuhu7133lr1g01kbhngh00r11g6pklc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "info.kapel.mijnkindopzomerkamp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988244925754:android:1b45b5014dbfbd7ff78403",
+        "android_client_info": {
+          "package_name": "info.kapel.mijnkindopzomerkamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988244925754-imfe9356sk1vvi2dht6tt5b8kkc6m4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80pW7xvXjCMh0wh4Ii86DXj80YxS6mNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988244925754-imfe9356sk1vvi2dht6tt5b8kkc6m4ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988244925754-8vuhu7133lr1g01kbhngh00r11g6pklc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "info.kapel.mijnkindopzomerkamp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
